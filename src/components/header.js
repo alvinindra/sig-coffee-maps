@@ -17,11 +17,11 @@ class Header extends Component {
         <AppBar position="static">
           <Toolbar>
             <Typography variant="h6" id="logo">
-              <Twemoji emoji="☕" /> West Java Coffee Shop
+              <Twemoji emoji="☕" /> Coffee Shop West Java
             </Typography>
             <TableCount rowCountProp={rowCountProp} />
             <a
-              href="https://docs.google.com/spreadsheets/d/1u7jiqY1qM0jYWugn1dFiW3plQrvWysJqm8xXhO35zuU/edit?usp=sharing"
+              href="https://docs.google.com/spreadsheets/d/1KPF8276wxfAYyzciJe5lQhneW6AzKEyiBBoTDJ0fc-g/edit?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -30,7 +30,7 @@ class Header extends Component {
               </Button>
             </a>
             <a
-              href="https://github.com/hdehal/coffee-maps"
+              href="https://github.com/alvinindra/sig-coffee-maps"
               target="_blank"
               rel="noopener noreferrer"
             >
