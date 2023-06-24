@@ -76,7 +76,7 @@ class CoffeeTable extends Component {
                     {row.Roaster}
                   </a>
                 </TableCell>
-                <TableCell align="right">{row.City}, Jawa Barat</TableCell>
+                <TableCell align="right">{row.City}, West Java</TableCell>
               </TableRow>
             ))}
           </TableBody>

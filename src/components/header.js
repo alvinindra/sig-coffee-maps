@@ -17,7 +17,7 @@ class Header extends Component {
         <AppBar position="static">
           <Toolbar>
             <Typography variant="h6" id="logo">
-              <Twemoji emoji="☕" /> Jawa Barat Coffee Shop
+              <Twemoji emoji="☕" /> West Java Coffee Shop
             </Typography>
             <TableCount rowCountProp={rowCountProp} />
             <a

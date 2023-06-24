@@ -78,7 +78,7 @@ class CoffeeMap extends Component {
                       <span>
                         <a href={URL}>{Roaster}</a>
                       </span>
-                      <span>{City}, Jawa Barat</span>
+                      <span>{City}, West Java</span>
                     </Tooltip>
                   </Marker>
                 )
